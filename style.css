@@ -31,9 +31,10 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 #notícias {
     flex-wrap: wrap;
     padding: 10px;
-
-display: flex;
-padding: 6px;
+    justify-content: space-between ;
+    justify-content: space-around;
+    display: flex;
+    padding: 6px;
 }
 
 .notícia {
